@@ -46,7 +46,8 @@ This project is designed to simulate the role of a restaurant manager making key
    ![Chicken Sales Analysis](https://imgs.search.brave.com/HKGWgptZDH7qoRa0Tgq5iIFhtJOZ7GjvIXP9n6hq2kw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cmliLXNvZnR3YXJl/LmNvbS9hcHAvdXBs/b2Fkcy8yMDI0LzA2/L2dvb2dsZS1hbmFs/eXRpY3MtcGVyZm9y/bWFuY2UtZGFzaGJv/YXJkLS53ZWJw)
 
 2. **Loan Repayment Plan**
-   ![Loan Plan](https://imgs.search.brave.com/G7HdrDaaN81Z5LrCbeWorQ0_P03L50n3jRr00Vz07wc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXhjZWxkZW15LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8xMS9BbW9ydGl6/YXRpb24tU2NoZWR1/bGUtd2l0aC1JcnJl/Z3VsYXItUGF5bWVu/dHMtMS4xLnBuZw)
+
+    ![Loan Plan](https://imgs.search.brave.com/G7HdrDaaN81Z5LrCbeWorQ0_P03L50n3jRr00Vz07wc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXhjZWxkZW15LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8xMS9BbW9ydGl6/YXRpb24tU2NoZWR1/bGUtd2l0aC1JcnJl/Z3VsYXItUGF5bWVu/dHMtMS4xLnBuZw)
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
