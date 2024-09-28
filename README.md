@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive **Restaurant Sales Analysis** project. The project focuses on analyzing sales data, projecting revenues, and optimizing financial performance, with key features such as dynamic pricing for chicken items and loan calculations for purchasing new equipment.
 
-![Restaurant Analysis](https://imgs.search.brave.com/h_Sv1o7kaEHuATQgkqe5_OiFiesseb6d850_j_gz7PI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnVpbGRlci5pby9h/cGkvdjEvaW1hZ2Uv/YXNzZXRzLzc5MDk4/YzEyODRlMDQ4OTNi/N2U4ZGU1YzY2Zjc1/ZmQ0L2E0OGExNDM3/MTk1YjRmOWM4ZDc4/MTZjNzE5OGMzMDhi/P2Zvcm1hdD13ZWJw)
+![Restaurant Analysis](https://files.oaiusercontent.com/file-72kqTkwZcK4Jt7wgyWroEFnD?se=2024-09-28T21%3A23%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D38b5bc75-c9e0-48b6-ba65-08ace04b6abe.webp&sig=KVcfPMJjveoX9QxZUVpFT39xjTk5o5jsr%2Bqmyj0V7iI%3D)
 
 ## 📋 Project Overview
 
