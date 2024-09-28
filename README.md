@@ -53,3 +53,56 @@ This project is designed to simulate the role of a restaurant manager making key
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gbekoilias/restaurant-sales-analysis.git
+
+2. Open the Excel file `Sales_YourName.xlsx`.
+3. Follow the tasks in the project description to complete the analysis.
+
+
+## 🛠️ Version Control
+This project is version-controlled with Git and hosted on GitHub. Follow these steps to contribute or track changes:
+
+* Major Changes: Whenever a significant update (e.g., adding new features or fixing bugs) is made to the project, it will be committed with detailed comments explaining the changes. 
+For example:
+```bash
+git add .
+git commit -m "Added revenue calculation and visualized sales trends using sparklines"
+git push origin main
+```
+* Branching: When adding new features, create a new branch
+```bash
+git checkout -b feature-name
+```
+* Merge it into the main branch after review:
+```bash
+git checkout main
+git merge feature-name
+```
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests for any enhancements or bug fixes. To contribute:
+
+* Fork the Repository: Click the "Fork" button on GitHub.
+Clone your forked repo:
+```bash
+Copy code
+git clone https://github.com/YourUsername/restaurant-sales-analysis.git
+```
+* Create a new branch for the feature or bug fix:
+```bash
+Copy code
+git checkout -b feature/fix-description
+```
+* Commit your changes with detailed messages:
+```bash
+Copy code
+git commit -m "Detailed message about your fix or feature"
+```
+* Push your changes to your forked repository:
+```bash
+Copy code
+git push origin feature/fix-description
+```
+* Submit a Pull Request on GitHub.
+
+## 📧 Contact
+For any queries, feel free to reach out to me via email at [gbekoilias@gmail.com].
