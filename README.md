@@ -52,4 +52,4 @@ This project is designed to simulate the role of a restaurant manager making key
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/restaurant-sales-analysis.git
+   git clone https://github.com/Gbekoilias/restaurant-sales-analysis.git
